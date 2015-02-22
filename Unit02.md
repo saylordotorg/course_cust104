@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Knowing Your Customers** <span id="2"></span> 
 *Comparing the job of a customer service representative with an actor on
 a stage is not a perfect analogy. For example, although actors do

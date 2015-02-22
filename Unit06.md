@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Creating a Visual Impression** <span id="6"></span> 
 *Award-winning costume designer Judith Bowden has explained that an
 actor’s costume “must provide strong visual support for the story,

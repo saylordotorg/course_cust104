@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Understanding Communication** <span id="1"></span> 
 *A model is not just a pretty person in a suit or a dress; a model can
 also be a representation of something complex that shows you how its

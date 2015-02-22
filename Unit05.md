@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Speaking to Customers** <span id="5"></span> 
 *What percentage of an actor’s or actress’s performance on the stage
 succeeds because of what he or she does versus what he or she says? The

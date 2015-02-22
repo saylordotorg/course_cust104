@@ -1,4 +1,11 @@
-Course Syllabus for "CUST104: Business Communications "
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "CUST104: Business Communications"
 -------------------------------------------------------
 
 It would be nearly impossible to find the first person who noted that

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Providing Information for Customers** <span id="4"></span> 
 *The former U.S. Senator and widely respected language scholar S.I.
 Hayakawa often argued that you should put your thoughts in writing

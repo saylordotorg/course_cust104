@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST104: Business Communications"
+course_description: "This course is designed to help you learn how to plan, produce, and perform acts of communication that satisfy the most demanding audience: your customers."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Listening to Your Customers** <span id="3"></span> 
 *In contrast to actors who perform on television or in film, the stage
 actor performs in front of a live audience. Because there are no cameras
